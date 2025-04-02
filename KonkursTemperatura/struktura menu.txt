@@ -1,0 +1,5 @@
+0 - odczyt z czujników
+1 - ustawienie wartości maksymalnej
+2 - ustawienie numeru telefonu
+
+przłączanie pod OK ('K')
